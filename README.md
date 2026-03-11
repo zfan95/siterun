@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://siterun.cn/logo.svg" width="80" height="80" alt="SiteRun Logo" />
+  <img src="./logo.svg" width="80" height="80" alt="SiteRun Logo" />
 </p>
 
 <h1 align="center">SiteRun</h1>
